@@ -36,7 +36,7 @@ const Hero = () => {
             Explore Packages
             <ArrowRight className="ml-2 w-5 h-5" />
           </Button>
-          <Button size="lg" variant="outline" className="border-white text-white hover:bg-white hover:text-black px-8 py-4 text-lg">
+          <Button size="lg" variant="outline" className="border-2 border-white text-white hover:bg-white hover:text-black px-8 py-4 text-lg bg-transparent">
             Plan Your Trip
           </Button>
         </div>
